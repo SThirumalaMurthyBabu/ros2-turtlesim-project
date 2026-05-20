@@ -36,7 +36,7 @@ ros2 run my_robot_bringup turtle_spawner
 ros2 run my_robot_bringup turtle_controller
 ```
 
-Or run simply using the launch file which will run all the above three nodes.
+Or run simply using the launch file provided, which will run all the above three nodes (manually).
 
 
 ## Built with
